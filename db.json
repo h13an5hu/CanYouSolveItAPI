@@ -6,7 +6,7 @@
     "option2": "Febuary",
     "option3": "June",
     "option4": "All of Them",
-    "corrct": "All of Them"
+    "correct": "All of Them"
   },
   { "id": 2,
     "question": "What ancient invention lets you look right through a wall?",
@@ -14,7 +14,7 @@
     "option2": "Glass",
     "option3": "Computer",
     "option4": "X-Rays" ,
-   "corrct": "Window"
+   "correct": "Window"
   },
   { "id": 3,
     "question": "What begins with T ends with T and has T in it?",
@@ -22,7 +22,7 @@
     "option2": "Teapot",
     "option3": "Tablet",
     "option4": "Tourist", 
-    "corrct": "Teapot"
+    "correct": "Teapot"
   },
   { "id": 4,
     "question": "The more you take , the more you leave behind. What am I?",
@@ -30,7 +30,7 @@
     "option2": "Knowledge",
     "option3": "Footsteps",
     "option4": "Food",
-    "corrct": "Footsteps"
+    "correct": "Footsteps"
   },
   { "id": 5,
     "question": "David father has three sons: Andy, Bandy and ----?",
@@ -38,6 +38,6 @@
     "option2": "mandy",
     "option3": "dawason",
     "option4": "david",
-    "corrct": "David"
+    "correct": "David"
   }
 ]
